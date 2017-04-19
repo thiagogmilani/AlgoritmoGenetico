@@ -3,9 +3,9 @@
 #
 #				# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #				#									#									
-#				#			MESTRADO EM CIENCIAS DA COMPUTACAO		#			
-#				#		DISCIPLINA DE COMPUTACAO INSPIRADA PELA NATUREZA	#
-#				#			Thiago Giroto Milani	-	01/2017		#																	#                               #                                                                       #
+#				#		MESTRADO EM CIENCIAS DA COMPUTACAO	    	        #			
+#				#	DISCIPLINA DE COMPUTACAO INSPIRADA PELA NATUREZA	        #
+#				#		Thiago Giroto Milani	-	01/2017		        #																	#                               #                                                                       #
 #				# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #
 #Bibliotecas
