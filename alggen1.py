@@ -1,13 +1,12 @@
 #!/usr/bin/python 2.7.10
 # coding: utf-8
 #
-#						# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-#						#																	#
-#						#					MESTRADO EM CIENCIAS DA COMPUTACAO				#
-#						#			DISCIPLINA DE COMPUTACAO INSPIRADA PELA NATUREZA		#
-#						#					Thiago Giroto Milani	-	01/2017				#
-#						#																	#
-#						# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#				# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#				#									#									
+#				#			MESTRADO EM CIENCIAS DA COMPUTACAO		#			
+#				#		DISCIPLINA DE COMPUTACAO INSPIRADA PELA NATUREZA	#
+#				#			Thiago Giroto Milani	-	01/2017		#																	#                               #                                                                       #
+#				# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #
 #Bibliotecas
 #
